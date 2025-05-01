@@ -28,5 +28,5 @@ A web application built with **React**, **Leaflet.js**, and **OpenStreetMap** th
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/Mahek-Technophile/ParkBuddy.git
    cd park-buddy
